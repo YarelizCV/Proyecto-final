@@ -1,4 +1,4 @@
-# 🎓 Gestión de Cursos en Línea (Proyecto Demo) - Flask + MySQL Yareliz
+# 🎓 Gestión de Inventario Personal (Proyecto Demo) - Flask + MySQL 
 
 Este proyecto permite gestionar cursos en línea donde **profesores** pueden crear cursos, y **estudiantes** pueden visualizarlos. Además, los **administradores** pueden gestionar usuarios y roles. Es el Proyecto 1 dentro de una colección de 11 proyectos desarrollados como práctica final para los estudiantes.
 
