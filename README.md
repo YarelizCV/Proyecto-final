@@ -293,3 +293,8 @@ Puedes utilizar este proyecto de Gestión de Cursos en Línea como base para des
 ## 🧠 Licencia
 
 Este proyecto es de uso académico y puede ser reutilizado con fines educativos indicando las referencias correspondientes del Proyecto. Este proyecto y la lista de proyectos son creaciones originales del profesor Javier A. Dastas de Ciencias de Computadoras.
+
+## 📖 Autores
+
+- Yareliz Catalán: https://github.com/YarelizCV
+- Alanis Oliveras: https://github.com/AlanisOliveras
